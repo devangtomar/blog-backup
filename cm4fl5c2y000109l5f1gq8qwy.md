@@ -3,6 +3,7 @@ title: "🔥 Hidden Gems 👀: 20 Lesser-Known VS Code Extensions to Boost Your 
 datePublished: Sun Dec 08 2024 12:01:13 GMT+0000 (Coordinated Universal Time)
 cuid: cm4fl5c2y000109l5f1gq8qwy
 slug: hidden-gems-20-lesser-known-vs-code-extensions-to-boost-your-productivity
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739008144989/dee0e755-749d-480a-80b2-6cbf4075657c.webp
 
 ---
 
