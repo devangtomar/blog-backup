@@ -4,6 +4,7 @@ datePublished: Fri Jan 31 2025 18:31:02 GMT+0000 (Coordinated Universal Time)
 cuid: cm6l3xkqj000f09ihd754c6rv
 slug: how-to-write-your-own-terraform-provider-a-step-by-step-guide
 canonical: https://dev.to/devangtomar/how-to-write-your-own-terraform-provider-a-step-by-step-guide-g0i
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739008076773/8e028d8f-72fb-42cf-987c-fbd01c675179.webp
 tags: terraform, terraform-state, terraform-cloud, terraform-module, custom-providers
 
 ---
